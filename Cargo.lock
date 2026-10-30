@@ -5,7 +5,7 @@ version = 4
 [[package]]
 name = "aa-anim"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-cry",
  "aa-pak",
@@ -20,7 +20,7 @@ dependencies = [
 [[package]]
 name = "aa-audio"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-cry",
  "aa-pak",
@@ -40,7 +40,7 @@ dependencies = [
 [[package]]
 name = "aa-cry"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-pak",
  "bevy",
@@ -53,7 +53,7 @@ dependencies = [
 [[package]]
 name = "aa-dev"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "bevy",
  "image",
@@ -82,7 +82,7 @@ dependencies = [
 [[package]]
 name = "aa-fx"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-anim",
  "aa-cry",
@@ -95,7 +95,7 @@ dependencies = [
 [[package]]
 name = "aa-lua"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-pak",
  "anyhow",
@@ -109,7 +109,7 @@ dependencies = [
 [[package]]
 name = "aa-pak"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aes",
  "basisu",
@@ -126,7 +126,7 @@ dependencies = [
 [[package]]
 name = "aa-ui"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-lua",
  "aa-pak",
@@ -156,7 +156,7 @@ dependencies = [
 [[package]]
 name = "aa-world"
 version = "0.1.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "aa-audio",
  "aa-cry",
@@ -1734,7 +1734,7 @@ dependencies = [
 [[package]]
 name = "bevy_render"
 version = "0.20.0"
-source = "git+https://github.com/NickMesser/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
+source = "git+https://github.com/joshhmann/AABevy1.2?rev=17d6258a1bca978c61830354b9e9832d08f0eea8#17d6258a1bca978c61830354b9e9832d08f0eea8"
 dependencies = [
  "async-channel",
  "bevy_app",
